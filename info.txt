@@ -1,12 +1,123 @@
-1 - Carpeta inicial:
-2 - Archivos necesarios: index.html, README.md y otros html si son necesarios.
-3 - Carpeta de imágenes, videos, etc: crear carpeta img o assets para guardar los recursos multimedias.
-4 - Estructura HTML: <header>, <nav> (puede ir dentro del header), <main>, <footer>.
-5 - Contenido mínimo: Título principal, subtítulos (h2), párrafos, lista(s) ol o ul.
-6 - Enlaces: internos, externos.
-7 - Multimedia: imágenes, video con iframe o audio.
-8 - Tabla: con encabezados, al menos 2 filas, uso de colspan y rowspan.
-9 - Formulario: incluir al menos nombre, email, mensaje y botón de envío.
-10 - Extra: agregar alguno de los siguientes: <aside>, <article> o favicon.
-11 - README.md: descripción de que trata su proyecto, lo más completo posible.
-12 - Git: inicializar repositorio, agregar archivos, primer commit, conectar con github y realizar los commits necesarios.
+El sitio web debe incluir:
+
+# Estructura
+
+* <header>
+* <nav> (puede estar dentro de header)
+* <main>
+* <footer>
+
+---
+
+# Contenido
+
+* Título principal (`h1`)
+* Subtítulos (`h2`)
+* Párrafos
+* Una lista (`ul` o `ol`)
+
+---
+
+# Enlaces: Puede crear más de una página (no muchas) dentro del mismo proyecto y enlazarlas entre ellas
+
+* Un enlace externo (por ejemplo, a otra página web) 
+* Un enlace interno (a otra página o sección) - recuerde el uso de id="" dentro de la etiqueta correspondiente
+
+---
+
+# Multimedia: agregar carpeta al proyecto img o assets para guardar los recursos
+
+* Una imagen
+* Un video utilizando <iframe> o audio con <audio controls>.
+
+---
+
+# Tabla
+
+* Debe incluir encabezados (`th`)
+* Al menos 2 filas
+* Uso de `colspan` o `rowspan`
+
+---
+
+# Formulario
+
+* Campo de nombre
+* Campo de email
+* Campo de mensaje
+* Botón de envío
+
+---
+
+# Elementos adicionales (al menos uno)
+
+* Menú de navegación
+* <aside>
+* <article>
+* Favicon
+
+---
+
+# README.md
+
+El repositorio debe incluir un archivo `README.md` con:
+
+* Nombre del proyecto
+* Breve descripción
+* Contenido incluido
+* Nombre del autor
+
+---
+
+# Entrega
+
+Deberás subir en Moodle en Clase 16:
+
+# Link del repositorio en GitHub
+
+Ejemplo:
+
+https://github.com/usuario/mi-proyecto
+
+---
+
+
+# Importante
+
+* El repositorio debe ser **público**
+* Para que se reflejen los 5 commits solicitados deben utilizar push, ya que el repo local no puedo ver
+* Verificar que todos los archivos funcionen correctamente
+* Probar la página en el navegador antes de entregar
+* No utilizar estilos de ningún tipo, recuerde que es sólo estructura
+
+---
+
+# Recomendaciones
+
+* Trabajar paso a paso
+* Guardar cambios frecuentemente
+* Probar cada avance
+* Estoy para ayudar, así que sus preguntas no molestan
+
+---
+
+# Evaluación
+
+El trabajo será evaluado teniendo en cuenta:
+
+* Uso correcto de HTML
+* Estructura del sitio
+* Inclusión de todos los elementos solicitados
+* Uso de Git y commits
+* Claridad del código
+
+---
+
+# Fecha de entrega
+
+Hasta el día jueves 09 de abril a las 20 hs.
+
+---
+
+¡Éxitos!
+
