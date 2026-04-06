@@ -1,0 +1,12 @@
+1 - Carpeta inicial:
+2 - Archivos necesarios: index.html, README.md y otros html si son necesarios.
+3 - Carpeta de imágenes, videos, etc: crear carpeta img o assets para guardar los recursos multimedias.
+4 - Estructura HTML: <header>, <nav> (puede ir dentro del header), <main>, <footer>.
+5 - Contenido mínimo: Título principal, subtítulos (h2), párrafos, lista(s) ol o ul.
+6 - Enlaces: internos, externos.
+7 - Multimedia: imágenes, video con iframe o audio.
+8 - Tabla: con encabezados, al menos 2 filas, uso de colspan y rowspan.
+9 - Formulario: incluir al menos nombre, email, mensaje y botón de envío.
+10 - Extra: agregar alguno de los siguientes: <aside>, <article> o favicon.
+11 - README.md: descripción de que trata su proyecto, lo más completo posible.
+12 - Git: inicializar repositorio, agregar archivos, primer commit, conectar con github y realizar los commits necesarios.
